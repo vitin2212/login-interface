@@ -28,3 +28,13 @@ Visit my portfolio: https://vitin2212.github.io/
 Victor
 
 GitHub: https://github.com/vitin2212
+
+---
+
+## 📚 What I Learned
+
+- Designing user-friendly login interfaces.
+- Structuring forms with HTML5.
+- Styling form elements with CSS3.
+- Creating interactive elements with JavaScript.
+- Improving usability and visual consistency.
